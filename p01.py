@@ -12,5 +12,5 @@ def p01():
     
     return increase_count
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     print(p01())

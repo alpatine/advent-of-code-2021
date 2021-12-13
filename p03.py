@@ -13,5 +13,5 @@ def p03():
 
     return movements["forward"] * (movements["down"] - movements["up"])
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     print(p03())
