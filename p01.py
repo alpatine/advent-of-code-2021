@@ -1,5 +1,5 @@
 def p01():
-    with open("p01_data.txt") as data_file:
+    with open("data_day01.txt") as data_file:
         data = data_file.read().splitlines()
     
     increase_count = 0
